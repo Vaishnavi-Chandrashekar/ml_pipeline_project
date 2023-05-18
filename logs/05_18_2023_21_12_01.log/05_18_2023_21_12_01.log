@@ -1,0 +1,6 @@
+[2023-05-18 21:12:01,126 ] 186 werkzeug - WARNING - * Debugger is active!
+[2023-05-18 21:12:01,144 ] 186 werkzeug - INFO - * Debugger PIN: 109-037-405
+[2023-05-18 21:12:10,943 ] 9 root - INFO -abc
+[2023-05-18 21:12:10,944 ] 186 werkzeug - INFO -127.0.0.1 - - [18/May/2023 21:12:10] "GET / HTTP/1.1" 200 -
+[2023-05-18 21:12:11,199 ] 186 werkzeug - INFO -127.0.0.1 - - [18/May/2023 21:12:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-05-18 21:15:11,446 ] 186 werkzeug - INFO - * Detected change in 'D:\\ml_pipeline_project\\ml_pipeline_project\\app.py', reloading
